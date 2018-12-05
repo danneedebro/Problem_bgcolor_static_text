@@ -4,19 +4,25 @@ I have a problem with setting the background of the wxPython control staticText 
 # Installing on Raspberry pi
 
 Goto a folder you want to create project in
+
 `>>cd temp_folder`
 
 Clone this repository
+
 `>>https://github.com/danneedebro/Problem_bgcolor_static_text.git`
 
 Go into newly created folder
+
 `>>cd Problem_bgcolor_static_text/`
 
 Create virtual enviroment
+
 `>>python3 -m venv venv`
 
 Install wxPython from wheel-file
+
 `>>pip3 install wxPython-4.0.3-cp35-cp35m-linux_armv7l.whl`
 
 Run file
+
 `>>python Main.py`
