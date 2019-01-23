@@ -1,6 +1,8 @@
 # Background
 I have a problem with setting the background of the wxPython control staticText on raspberry pi. Works as expected on Windows 10 but not on a Raspberry pi 3b+ running Raspbian
 
+**UPDATE:** See answer on Stack Overflow: [https://stackoverflow.com/questions/53630830/fails-to-set-bgcolor-on-statictext-on-raspberry-pi-but-not-in-win10](https://stackoverflow.com/questions/53630830/fails-to-set-bgcolor-on-statictext-on-raspberry-pi-but-not-in-win10)
+
 # Installing on Raspberry pi
 
 Goto a folder you want to create project in
